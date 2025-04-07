@@ -1,5 +1,5 @@
 # 🚀 Tarvis
-A Combination Of The Sarcastic, Dry Speech Of TARS Along With The Functionality Of J.A.R.V.I.S from Iron Man
+A Combination Of The Sarcastic, Dry Speech Of TARS Along With The Efficiency And Intelligence Of J.A.R.V.I.S from Iron Man
 
 ## 📌 Features
 ✅ Text To Speech - Has A Deep Voice Similar To TARS (Currently Emotionless) 
